@@ -1,4 +1,4 @@
-# Heart Disease Prediction using Decision Trees
+# Heart Disease Prediction using Decision Tree Classifier
 
 This project applies machine learning to predict the presence of heart disease using the Cleveland Heart Disease dataset. 
 The model leverages **Decision Tree Classifiers** for both interpretability and accuracy.
