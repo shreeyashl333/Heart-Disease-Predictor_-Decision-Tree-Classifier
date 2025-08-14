@@ -66,12 +66,4 @@ The goal of this project is to:
 - Perform feature selection for dimensionality reduction.
 - Deploy model with **Streamlit** or **Flask**.
 
----
 
-## 📜 License
-This project is licensed under the MIT License.
-
----
-
-**Author:** Your Name  
-**Contact:** your.email@example.com
